@@ -1,0 +1,156 @@
+.main_box {
+  display: block;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.inner_head {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  height: 5%;
+  margin-left: 10%;
+  padding: 2%;
+
+  border-bottom: #e7eaf0 2px solid;
+
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+  font-size: 15px;
+}
+
+.userId {
+  width: 10%;
+  margin-right: 8%;
+}
+
+.username {
+  width: 10%;
+  margin-right: 8%;
+}
+
+.name {
+  width: 15%;
+  margin-right: 15%;
+}
+
+.userDate {
+  width: 15%;
+  margin-right: 15%;
+}
+
+.userStatus {
+  width: 10%;
+  margin-right: 10%;
+}
+
+.userPoint {
+  width: 15%;
+  margin-right: 10%;
+}
+
+.inner_body {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 89%;
+  margin-left: 10%;
+}
+
+.user_list_box {
+  display: flex;
+  align-items: center;
+  width: 90%;
+  border-bottom: #e7eaf0 solid 1px;
+}
+
+.user_num {
+  display: flex;
+  justify-content: center;
+  width: 9%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}
+
+.user_username {
+  display: flex;
+  justify-content: center;
+  width: 14%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}
+
+.user_name {
+  display: flex;
+  justify-content: center;
+  width: 13%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}
+
+.user_date {
+  display: flex;
+  justify-content: center;
+  width: 28%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}
+
+.user_status {
+  display: flex;
+  justify-content: center;
+  width: 12%;
+  height: 80%;
+  margin-top: 2%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}
+
+.user_point {
+  display: flex;
+  justify-content: center;
+  width: 18%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}
+
+.admin_text {
+  display: flex;
+  justify-content: center;
+  width: 77%;
+
+  font-size: 15px;
+  font-family: "Volkhov", serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+}

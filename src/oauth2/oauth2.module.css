@@ -1,0 +1,17 @@
+.naver_login {
+  width: 70%;
+  margin-right: 10%;
+
+  cursor: pointer;
+}
+
+.kakao_login {
+  width: 70%;
+
+  cursor: pointer;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+}

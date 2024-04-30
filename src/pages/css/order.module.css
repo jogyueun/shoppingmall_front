@@ -1,0 +1,48 @@
+.form{
+    margin-left: 20vw;
+    width: 60vw;
+}
+.deliveryInput{
+    height: 10px;
+    background-color: white;
+    color: gray;
+    border: 1px solid black;
+}
+.postInput{
+    background-color: white;
+    color: gray;
+    border: 1px solid black;
+    width: 60vw;
+}
+.postNumber{
+    display: flex;
+}
+.postButton{
+    height: 58px;
+    font-size: small;
+    background-color: black;
+    color:white;
+    border: 1px solid black;
+}
+.totalPrice{
+    background-color: rgb(218, 216, 216);
+}
+.button{
+    background-color: black;
+    color:white;
+    border: 1px solid black;
+}
+.input_box {
+    display: flex;
+    justify-content: center;
+    font-family: "Volkhov", serif;
+    font-style: normal;
+    border: none; /* 모든 테두리 제거 */
+    border-bottom: 1px solid black; /* 밑에만 선 추가 */
+    outline: none; /* 포커스 효과 제거 */
+    background-color: white;
+    border-radius: 0;
+}
+.label{
+
+}

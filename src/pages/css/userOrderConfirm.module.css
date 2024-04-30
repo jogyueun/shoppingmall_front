@@ -1,0 +1,47 @@
+.productTable{
+    font-sixe: xx-small;
+}
+.container{
+    margin-left:10vw;
+    width: 80vw;
+}
+.cancelButton{
+    margin-left:10px;
+    width: auto;
+    height: 40px;
+    font-sixe: xx-small;
+    background-color: white;
+    color:black;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15px;
+}
+.a{
+    text-decoration:none;
+    color:black;
+}
+.th{
+    font-sixe: 10px;
+}
+.tableContainer{
+    overflow-x: auto;
+}
+.modifyButton{
+    margin-left: 33vw;
+    width: 300px;
+    background-color: black;
+    color:white;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+}
+.postButton{
+    background-color: black;
+    color:white;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+}

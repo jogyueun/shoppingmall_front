@@ -1,0 +1,9 @@
+.button {
+  width: 100%;
+  background-color: black;
+  font-family: "Volkhov", serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 25px;
+  color: white;
+}
